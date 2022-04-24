@@ -1,0 +1,13 @@
+{
+    "name": "abdulaziz_m/mvc-framework",
+    "require": {
+        "illuminate/database": "^8.83",
+        "illuminate/events": "^8.83",
+        "vlucas/phpdotenv": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    }
+}
